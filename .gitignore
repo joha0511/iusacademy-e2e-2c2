@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Archivos de Playwright
+test-results/
+playwright-report/
+
+# Entornos
+.env
+.env.*
+# Editor
+.vscode/
+*.log
